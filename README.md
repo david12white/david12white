@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @david12white
 - 👀 I’m interested in software engineering internships.
-- 🌱 I’m currently learning full stack web development- PostgresSQL, Express, React, Node.
+- 🌱 I’m currently learning full stack web development- PostgreSQL, Express, React, Node.
 - 📫 You can email me at david12white@gmail.com
 
 <!---
